@@ -103,6 +103,57 @@ h6 {
     border-bottom: 1px solid #e7e7e7;
 }
 
+
+.devicon-html5-plain {
+    font-size: 80px;
+    color: #E34C26;
+}
+
+.devicon-css3-plain {
+    font-size: 80px;
+    color: #1572B6;
+}
+
+.devicon-javascript-plain {
+    font-size: 80px;
+    color: #F0DB4F;
+}
+
+.devicon-angularjs-plain {
+    font-size: 80px;
+    color: #C30E2E;
+}
+
+.devicon-nodejs-plain {
+    font-size: 80px;
+    color: #90C53F;
+}
+
+.devicon-postgresql-plain {
+    font-size: 80px;
+    color: #1572B6;
+}
+
+.devicon-gulp-plain {
+    font-size: 80px;
+    color: #D34A47;
+}
+
+.devicon-sass-original {
+    font-size: 80px;
+    color: #CE6399;
+}
+
+.devicon-visualstudio-plain {
+    font-size: 80px;
+    color: #336791;
+}
+
+.devicon-git-plain {
+    font-size: 80px;
+    color: #F05033;
+}
+
 .section-heading {
     margin-bottom: 30px;
 }
@@ -115,8 +166,8 @@ h6 {
 
 .banner {
     padding: 100px 0;
-    color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    color: #e7e7e7;
+    background: url(../img/phone-5.jpg) no-repeat center center;
     background-size: cover;
 }
 
